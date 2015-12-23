@@ -13,7 +13,7 @@ Books I have read
 * `Colin Harvey` Winter Song (★★☆☆☆)
 * `Robert Heinlein` Friday (★★★☆☆)
     * Somehow missed the main character was female until quite far in
-* `C. J. Cherryh' Faded Sun Trilogy (★★★☆☆)
+* `C. J. Cherryh` Faded Sun Trilogy (★★★☆☆)
     * Enjoyable
 * `C. J. Cherryh` Chanur Saga (★★★☆☆)
 * `C. J. Cherryh` Chanur's Endgame (★★★☆☆)
