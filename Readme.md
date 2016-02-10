@@ -3,6 +3,8 @@ Books I have read
 
 ### 2016
 
+* `Jonathan Harr` A Civil Action (★★★★☆)
+    * Covers the trial of Anderson vs Cryovac.
 * `Arthur C. Clarke` Hammer of God (★★★★☆)
     * Good look into how we might deal with asteroid on collision course with Earth.
 * `Isaac Asimov` The Martian Way (★★★★☆)
