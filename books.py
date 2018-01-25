@@ -1,15 +1,35 @@
 # coding=utf-8
 import re
+import datetime
 from collections import OrderedDict
 
 good_star = "★"
 bad_star = "☆"
 
 
+class PrependOrderedDict(OrderedDict):
+    def prepend(self, key, value, dict_setitem=dict.__setitem__):
+
+        root = self._OrderedDict__root
+        first = root[1]
+
+        if key in self:
+            link = self._OrderedDict__map[key]
+            link_prev, link_next, _ = link
+            link_prev[1] = link_next
+            link_next[0] = link_prev
+            link[0] = root
+            link[1] = first
+            root[1] = first[0] = link
+        else:
+            root[1] = first[0] = self._OrderedDict__map[key] = [root, first, key]
+            dict_setitem(self, key, value)
+
+
 class BookData:
     def __init__(self):
         self.comments = []
-        self.sections = OrderedDict()
+        self.sections = PrependOrderedDict()
 
     def __str__(self):
         ret = "# Books\n"
@@ -19,11 +39,14 @@ class BookData:
         ret += "\n"
         for s in self.sections:
             ret += self.sections[s].__str__()
-        # ret += self.sections.__str__()
         return ret
 
     def append_section(self, section):
         self.sections[section.title] = section
+        return self.get_section(section.title)
+
+    def prepend_section(self, section):
+        self.sections.prepend(section.title, section)
         return self.get_section(section.title)
 
     def get_section(self, title):
@@ -156,6 +179,52 @@ class Loader:
         return self.data
 
 
+def get_updates(book_data):
+    update = raw_input("Would you like to add a book? [y/n]: ")
+    if update == "y" or update == "Y":
+        while True:
+            year = datetime.datetime.now().year.__str__()
+            section = raw_input("Which section [" + year + "]: ")
+            if not section:
+                section = year
+            cur_section = None
+            if section in book_data.sections:
+                cur_section = book_data.get_section(section)
+            else:
+                cur_section = book_data.prepend_section(Section(section))
+            title = raw_input("Title: ")
+            author = raw_input("Author: ")
+            rating = raw_input("Rating (0-5): ")
+            if title and author and rating:
+                comments = []
+                while True:
+                    c = raw_input("Comments (blank line to end): ")
+                    if not c:
+                        break
+                    comments.append(c)
+                book = Book()
+                book.title = title
+                book.author = author
+                book.rating = int(rating)
+                if len(comments):
+                    book.comments = comments
+                print("\n")
+                print("Section: " + section)
+                print("-------------------------")
+                print(book.__str__())
+                print("\n")
+                right = raw_input("Would you like to redo this book? [y/n]")
+                if right == "y" or right == "Y":
+                    continue
+                else:
+                    cur_section.prepend_book(book)
+                another = raw_input("Would you like to add another book? [y/n]")
+                if another == "y" or another == "Y":
+                    continue
+                else:
+                    return
+
+
 def save(book_data, file):
     f = open(file, "w")
     f.write(book_data.__str__())
@@ -164,4 +233,5 @@ def save(book_data, file):
 
 m = Loader()
 data = m.process()
+get_updates(data)
 save(data, "Readme.md")
