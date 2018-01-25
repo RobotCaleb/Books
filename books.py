@@ -156,10 +156,12 @@ class Loader:
         return self.data
 
 
-def output(book_data):
-    print(book_data.__str__())
+def save(book_data, file):
+    f = open(file, "w")
+    f.write(book_data.__str__())
+    f.close()
 
 
 m = Loader()
 data = m.process()
-output(data)
+save(data, "Readme.md")

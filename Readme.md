@@ -62,3 +62,4 @@ I completely failed to log my reading in 2017
     * Another I keep coming back to
 * `Orson Scott Card` Ender's Game (★★★★★)
     * Have read this every couple years since middle school
+
