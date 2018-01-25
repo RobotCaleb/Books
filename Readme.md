@@ -1,6 +1,15 @@
 # Books
 Books I have read
 
+### 2018
+
+* `Peter Watts` Echopraxia (★★★★☆)
+    * Sequel to Blindsight
+    * Deals with religion, transcendentalist monastic orders, hive minds, vampires, zombies (!), parasites
+* `Peter Watts` Blindsight (★★★★☆)
+    * Great book, hard read
+    * Covers consciousness, sentience, intelligence, alien life, vampires(!)
+
 ### 2017
 I completely failed to log my reading in 2017
 
