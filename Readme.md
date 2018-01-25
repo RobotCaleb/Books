@@ -1,6 +1,9 @@
 # Books
 Books I have read
 
+### 2017
+I completely failed to log my reading in 2017
+
 ### 2016
 
 * `Jonathan Harr` A Civil Action (★★★★☆)
