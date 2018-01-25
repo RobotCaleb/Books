@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # coding=utf-8
 import re
 import datetime
@@ -213,12 +214,12 @@ def get_updates(book_data):
                 print("-------------------------")
                 print(book.__str__())
                 print("\n")
-                right = raw_input("Would you like to redo this book? [y/n]")
+                right = raw_input("Would you like to redo this book? [y/n] ")
                 if right == "y" or right == "Y":
                     continue
                 else:
                     cur_section.prepend_book(book)
-                another = raw_input("Would you like to add another book? [y/n]")
+                another = raw_input("Would you like to add another book? [y/n] ")
                 if another == "y" or another == "Y":
                     continue
                 else:
