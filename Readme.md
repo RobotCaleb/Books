@@ -3,6 +3,11 @@ Books I have read
 
 ### 2018
 
+* `K. J. Parker` The Belly of the Bow [Fencer 2.0] (★★★☆☆)
+    * Gorgas fights wars, Bardas kind of gets revenge.
+* `K. J. Parker` Colours in the Steel [Fencer 1.0] (★★★☆☆)
+    * Fun read. Reminiscent of Engineer trilogy.
+    * Lawyers decide their client's cases by fencing. Dead lawyer lost.
 * `Peter Watts` Echopraxia (★★★★☆)
     * Sequel to Blindsight
     * Deals with religion, transcendentalist monastic orders, hive minds, vampires, zombies (!), parasites
