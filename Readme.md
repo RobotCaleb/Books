@@ -3,6 +3,9 @@ Books I have read
 
 ### 2018
 
+* `Jason Aaron` The Goddamned Volume 1: Before the Flood (★★★★☆)
+    * Gruesome. Great.
+    * Cain walks the Earther 1600 years after Eden. Cain is cursed with life.
 * `K. J. Parker` The Belly of the Bow [Fencer 2.0] (★★★☆☆)
     * Gorgas fights wars, Bardas kind of gets revenge.
 * `K. J. Parker` Colours in the Steel [Fencer 1.0] (★★★☆☆)
