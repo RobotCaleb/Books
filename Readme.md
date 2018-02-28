@@ -3,6 +3,11 @@ Books I have read
 
 ### 2018
 
+* `Beth Revis` Rebel Rising (★★★☆☆)
+    * Covers Jyn Erso's life before Rogue One.
+    * Enjoyable.
+* `K. J. Parker` The Proof House [Fencer 3.0] (★★★☆☆)
+    * A decent end to the trilogy. Really enjoyed all of the proofing.
 * `Jason Aaron` The Goddamned Volume 1: Before the Flood (★★★★☆)
     * Gruesome. Great.
     * Cain walks the Earther 1600 years after Eden. Cain is cursed with life.
