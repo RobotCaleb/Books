@@ -3,14 +3,20 @@ Books I have read
 
 ### 2018
 
+* `Frank Miller` The Dark Knight III: The Master Race (★★★★★)
+    * This was really good. So much going on. Batman is dead.
+* `Clare B. Dunkle` The Walls have Eyes (The Sky Inside, #2) (★★☆☆☆)
+    * Conclusion to The Sky Inside
+* `Clare B. Dunkle` The Sky Inside (The Sky Inside, #1) (★★☆☆☆)
+    * Enjoyable young adult book about genetically-engineered children.
 * `Beth Revis` Rebel Rising (★★★☆☆)
-    * Covers Jyn Erso's life before Rogue One.
+    * Covers Jyn Erso's life before Rogue One.
     * Enjoyable.
 * `K. J. Parker` The Proof House [Fencer 3.0] (★★★☆☆)
-    * A decent end to the trilogy. Really enjoyed all of the proofing.
+    * A decent end to the trilogy. Really enjoyed all of the proofing.
 * `Jason Aaron` The Goddamned Volume 1: Before the Flood (★★★★☆)
     * Gruesome. Great.
-    * Cain walks the Earth 1600 years after Eden. Cain is cursed with life.
+    * Cain walks the Earth 1600 years after Eden. Cain is cursed with life.
 * `K. J. Parker` The Belly of the Bow [Fencer 2.0] (★★★☆☆)
     * Gorgas fights wars, Bardas kind of gets revenge.
 * `K. J. Parker` Colours in the Steel [Fencer 1.0] (★★★☆☆)
