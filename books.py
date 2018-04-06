@@ -188,7 +188,6 @@ def get_updates(book_data):
             section = raw_input("Which section [" + year + "]: ")
             if not section:
                 section = year
-            cur_section = None
             if section in book_data.sections:
                 cur_section = book_data.get_section(section)
             else:
