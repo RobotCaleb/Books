@@ -3,6 +3,14 @@ Books I have read
 
 ### 2018
 
+* `Chuck Palahniuk` Choke (★★★★☆)
+    * Really good. Really expressed the mood.
+* `K. J. Parker` Memory (Scavenger #3) (★★★☆☆)
+    * An adequate end to the slogging
+* `K. J. Parker` Pattern (Scavenger #2) (★★★☆☆)
+    * Less of a slog
+* `K. J. Parker` Shadow (Scavenger #1) (★★☆☆☆)
+    * A slog
 * `Frank Miller` The Dark Knight III: The Master Race (★★★★★)
     * This was really good. So much going on. Batman is dead.
 * `Clare B. Dunkle` The Walls have Eyes (The Sky Inside, #2) (★★☆☆☆)
