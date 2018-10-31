@@ -3,6 +3,8 @@ Books I have read
 
 ### 2018
 
+* `Rick Cook` The Wizardry Cursed (★★★☆☆)
+    * Failed robots and dogfights
 * `Rick Cook` The Wizardry Compiled (★★★☆☆)
     * Wiz brings in some help
 * `Rick Cook` Wizard's Bane (★★★☆☆)
