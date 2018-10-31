@@ -3,6 +3,8 @@ Books I have read
 
 ### 2018
 
+* `Rick Cook` Wizard's Bane (★★★☆☆)
+    * Fun wizardry and programming languages
 * `Chuck Palahniuk` Choke (★★★★☆)
     * Really good. Really expressed the mood.
 * `K. J. Parker` Memory (Scavenger #3) (★★★☆☆)
