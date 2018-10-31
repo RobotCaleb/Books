@@ -3,13 +3,13 @@ Books I have read
 
 ### 2018
 
-* `Rick Cook` The Wizardry Consulted (★★★☆☆)
+* `Rick Cook` The Wizardry Consulted [Wizardry 4.0] (★★★☆☆)
     * Wiz consults for humans with a dragon problem
-* `Rick Cook` The Wizardry Cursed (★★★☆☆)
+* `Rick Cook` The Wizardry Cursed [Wizardry 3.0] (★★★☆☆)
     * Failed robots and dogfights
-* `Rick Cook` The Wizardry Compiled (★★★☆☆)
+* `Rick Cook` The Wizardry Compiled [Wizardry 2.0] (★★★☆☆)
     * Wiz brings in some help
-* `Rick Cook` Wizard's Bane (★★★☆☆)
+* `Rick Cook` Wizard's Bane [Wizardry 1.0] (★★★☆☆)
     * Fun wizardry and programming languages
 * `Chuck Palahniuk` Choke (★★★★☆)
     * Really good. Really expressed the mood.
