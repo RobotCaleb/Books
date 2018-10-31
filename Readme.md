@@ -3,6 +3,8 @@ Books I have read
 
 ### 2018
 
+* `Rick Cook` The Wizardry Consulted (★★★☆☆)
+    * Wiz consults for humans with a dragon problem
 * `Rick Cook` The Wizardry Cursed (★★★☆☆)
     * Failed robots and dogfights
 * `Rick Cook` The Wizardry Compiled (★★★☆☆)
