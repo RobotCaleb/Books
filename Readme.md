@@ -3,6 +3,8 @@ Books I have read
 
 ### 2019
 
+* `Steven Erikson` Gardens of the Mooon (★★★☆☆)
+    * First of 10 in `The Complete Malazan Book of the Fallen`. Long book, cool setting, interesting magic.
 * `Rick Riordan` The Lightning Thief (★★☆☆☆)
     * A fun little children's story. Son of Poseidon has to help save some face.
 * `Stephen King` Under the Dome (★★★★★)
