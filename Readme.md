@@ -1,6 +1,13 @@
 # Books
 Books I have read
 
+### 2019
+
+* `Stephen King` Under the Dome (★★★★★)
+    * Mysterious field surrounds a small town. Events occur. I really enjoy this story.
+* `Orson Scott Card` Ender's Game (★★★★★)
+    * Have read this every couple years since middle school. Still one of my favorites.
+
 ### 2018
 
 * `Rick Cook` The Wizardry Consulted [Wizardry 4.0] (★★★☆☆)
