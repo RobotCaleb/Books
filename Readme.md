@@ -3,6 +3,8 @@ Books I have read
 
 ### 2019
 
+* `Rick Riordan` The Lightning Thief (★★☆☆☆)
+    * A fun little children's story. Son of Poseidon has to help save some face.
 * `Stephen King` Under the Dome (★★★★★)
     * Mysterious field surrounds a small town. Events occur. I really enjoy this story.
 * `Orson Scott Card` Ender's Game (★★★★★)
