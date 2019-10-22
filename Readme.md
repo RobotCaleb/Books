@@ -3,9 +3,9 @@ Books I have read
 
 ### 2019
 
-* `Steven Erikson` Deadhouse Gates (★★★★☆)
+* `Steven Erikson` Deadhouse Gates [Malazan Book of the Fallen 2.0] (★★★★☆)
     * I like this more than the first book. The magic is still really cool. Another long book.
-* `Steven Erikson` Gardens of the Mooon (★★★☆☆)
+* `Steven Erikson` Gardens of the Mooon [Malazan Book of the Fallen 1.0] (★★★☆☆)
     * First of 10 in `The Complete Malazan Book of the Fallen`. Long book, cool setting, interesting magic.
 * `Rick Riordan` The Lightning Thief (★★☆☆☆)
     * A fun little children's story. Son of Poseidon has to help save some face.
