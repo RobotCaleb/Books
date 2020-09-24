@@ -1,6 +1,14 @@
 # Books
 Books I have read
 
+### 2020
+
+* `Orson Scott Card` Earth Unaware [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Earth Afire [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Earth Awakens [Enderverse] (★★★☆☆)
+* `Orson Scott Card` The Swarm [Enderverse] (★★★☆☆)
+* `Orson Scott Card` The Hive [Enderverse] (★★★☆☆)
+
 ### 2019
 
 * `Steven Erikson` Deadhouse Gates [Malazan Book of the Fallen 2.0] (★★★★☆)
