@@ -8,6 +8,11 @@ Books I have read
 * `Orson Scott Card` Earth Awakens [Enderverse] (★★★☆☆)
 * `Orson Scott Card` The Swarm [Enderverse] (★★★☆☆)
 * `Orson Scott Card` The Hive [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Ender's Game [Enderverse] (★★★★★)
+* `Orson Scott Card` Ender's Shadow [Enderverse] (★★★☆☆)
+* `Orson Scott Card` A War of Gifts [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Pretty Boy [Enderverse] (★★★☆☆)
+    * These are fun. Nice to get to know characters before they got wrapped up in Ender.
 
 ### 2019
 
