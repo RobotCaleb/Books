@@ -20,6 +20,12 @@ Books I have read
 * `Orson Scott Card` Shadow Puppets [Enderverse] (★★★☆☆)
 * `Orson Scott Card` Shadow of the Giant [Enderverse] (★★★★☆)
 * `Orson Scott Card` Ender In Exile [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Shadows in Flight [Enderverse] (★★★☆☆)
+* `Orson Scott Card` First Meetings [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Speaker for the Dead [Enderverse] (★★★☆☆)
+    * I definitely appreciate this sequel branch more as an adult than a young teen.
+* `Orson Scott Card` Xenocide [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Children of the Mind [Enderverse] (★★★☆☆)
 
 ### 2019
 
