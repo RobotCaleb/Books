@@ -13,6 +13,13 @@ Books I have read
 * `Orson Scott Card` A War of Gifts [Enderverse] (★★★☆☆)
 * `Orson Scott Card` Pretty Boy [Enderverse] (★★★☆☆)
     * These are fun. Nice to get to know characters before they got wrapped up in Ender.
+* `Orson Scott Card` Cheater [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Mazer in Prison [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Children of the Fleet [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Shadow of the Hegemon [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Shadow Puppets [Enderverse] (★★★☆☆)
+* `Orson Scott Card` Shadow of the Giant [Enderverse] (★★★★☆)
+* `Orson Scott Card` Ender In Exile [Enderverse] (★★★☆☆)
 
 ### 2019
 
